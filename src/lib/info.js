@@ -10,8 +10,8 @@ export const lastName = 'Peiman'
 export const name = `${firstName} ${lastName}`
 
 // Used for the landing page & footer of posts
-// export const avatar = 'mike_profile_headshot 2 20220827_135617.jpg'
-export const avatar = 'mikepeiman_a_realistic_large_proud_and_fierce_lion_with_a_mane__df36fb93-d7d3-448f-8fe5-5b3b67fb69da.png'
+// export const avatar = 'static/mike_profile_headshot 2 20220827_135617.jpg'
+export const avatar = 'static/mikepeiman_a_realistic_large_proud_and_fierce_lion_with_a_mane__df36fb93-d7d3-448f-8fe5-5b3b67fb69da.png'
 export const bio = `\
 I’m ${firstName}, a self-taught web & software developer based in Canada. I'm passionate about UI & UX, tools for thought, and improving the human condition in every way possible. I have a background in health, fitness and snowboarding, as well as in sustainability.
 I'm also a solo father, raising and homeschooling my daughter on my own. 
